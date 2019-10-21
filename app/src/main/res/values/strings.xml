@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android04c01</string>
+    <string name="createNotificationButton">Utwórz powiadomienie</string>
+    <string name="updateNotificationButton">Popraw powiadomienie</string>
+    <string name="createToastButton">Toast</string>
+    <string name="close">Zamknij</string>
+</resources>
