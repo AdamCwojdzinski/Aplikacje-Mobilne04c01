@@ -4,4 +4,10 @@
     <string name="updateNotificationButton">Popraw powiadomienie</string>
     <string name="createToastButton">Toast</string>
     <string name="close">Zamknij</string>
+    <string name="do_you_want_exit">Czy chcesz zamknąć aplikację</string>
+    <string name="yes">Tak</string>
+    <string name="cancel">Anuluj</string>
+    <string name="text_toast">Uruchomiony Toast</string>
+    <string name="channel_name">Kanał Prywatyn</string>
+    <string name="channel_description">To jest opis kanału prywatnego</string>
 </resources>
